@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Ulrigh Oosthuizen
 
-<!--
-**UliBoi/UliBoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Software Developer** | Student at **Belgium Campus ITversity**  
+Passionate about hardware-integrated systems, web tech, and AI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+**Languages:** Java, Python, C#, JavaScript, Arduino C++, SQL  
+**Web:** HTML, CSS, Node.js, Express.js, EJS  
+**Databases:** MongoDB, JavaDB (Derby), SQL  
+**Tools:** Git, GitHub, NetBeans, VS Code, Postman  
+**Concepts:** OOP, MVC, REST APIs, Machine Learning
+
+---
+
+## What I Do
+
+- Build full-stack applications (desktop & web) using Java, Python, C#, Node.js, and MongoDB.  
+- Lead group development projects by coordinating tasks, solving problems, and guiding architecture.  
+- Design and implement database systems using both SQL (Derby) and NoSQL (MongoDB with replication adn sharding).  
+- Develop machine learning tools with Python (XGBoost, Random Forest) for data prediction projects.  
+- Explore embedded systems and hardware control using Arduino and electronics.  
+- Create user-friendly interfaces with Swing GUI, EJS templating, and web styling tools.  
+- Write clean, modular code using OOP principles and MVC architecture.  
+- Work with Git/GitHub for version control and collaborative development.  
+- Constantly learn and experiment with AI tools, APIs, and automation projects for fun.  
+
+---
+
+## Let's Connect
+
+Email: **ulrighoos@gmail.com**  
+
+Thanks for stopping by! Feel free to check out my work or reach out.
