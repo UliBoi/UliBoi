@@ -31,6 +31,6 @@ Passionate about hardware-integrated systems, web tech, and AI.
 
 ## Let's Connect
 
-Email: **ulrighoos@gmail.com**  
+Email: **ulrighoosthuizen@gmail.com**  
 
 Thanks for stopping by! Feel free to check out my work or reach out.
