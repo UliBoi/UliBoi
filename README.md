@@ -1,7 +1,11 @@
 # Hi, I'm Ulrigh Oosthuizen
 
-**Aspiring Software Developer** | Student at **Belgium Campus ITversity**  
-Passionate about hardware-integrated systems, web tech, and AI.
+**Software Engineering Student at Belgium Campus ITversity**  
+
+Passionate about building full-stack applications and complete software systems — from backend logic and databases to intuitive user interfaces.
+Also exploring hardware-integrated systems, web technologies, and AI/ML, where I enjoy combining software with real-world functionality.
+
+Seeking internship opportunities across software and tech to grow my skills, with a strong focus on full-stack software engineering.
 
 ---
 
@@ -9,7 +13,7 @@ Passionate about hardware-integrated systems, web tech, and AI.
 
 **Languages:** Java, Python, C#, JavaScript, Arduino C++, SQL  
 **Web:** HTML, CSS, Node.js, Express.js, EJS  
-**Databases:** MongoDB, JavaDB (Derby), SQL  
+**Databases:** MongoDB, JavaDB (Derby), PostgreSQL, SQL  
 **Tools:** Git, GitHub, NetBeans, VS Code, Postman  
 **Concepts:** OOP, MVC, REST APIs, Machine Learning
 
